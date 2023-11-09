@@ -1,7 +1,7 @@
-## [SkillUp_EDTECH - Modern Project Management Specialization](https://www.coursera.org/specializations/skillup-edtech-modern-project-management?myLearningTab=IN_PROGRESS)
+## [Modern Project Management Specialization on Coursera](https://www.coursera.org/specializations/skillup-edtech-modern-project-management?myLearningTab=IN_PROGRESS)
 
 
-## About
+## About: Offered by SkillUp EDTECH
 
 -------------------------------------------------------------------------------------------
 
