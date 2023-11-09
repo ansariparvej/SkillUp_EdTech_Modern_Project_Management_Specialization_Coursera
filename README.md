@@ -1,11 +1,11 @@
-# [SkillUp_EDTECH - Modern Project Management Specialization](https://www.coursera.org/specializations/skillup-edtech-modern-project-management?myLearningTab=IN_PROGRESS)
+## [SkillUp_EDTECH - Modern Project Management Specialization](https://www.coursera.org/specializations/skillup-edtech-modern-project-management?myLearningTab=IN_PROGRESS)
 
 
-# About
+## About
 
 -------------------------------------------------------------------------------------------
 
-## WHAT YOU WILL LEARN
+### WHAT YOU WILL LEARN
 
 - Master the most up-to-date concepts, tools, principles, and language project managers use every day
 - Learn how to manage projects, including addressing difficult client situations and how activities shift throughout the project management lifecycle
@@ -13,7 +13,7 @@
 - Work on practical projects to build a portfolio that showcases your proficiency to employers while preparing for the CAPM certification exam
 
 
-## About this Specialization (Series of 4 Courses)
+### About this Specialization (Series of 4 Courses)
 
 Embark on an exciting journey into the thriving realm of project management and prepare for a promising career ahead. In this program, you'll gain invaluable skills, knowledge, and a robust portfolio that will give you a competitive edge in the job market as an entry-level project manager. No prior experience or expertise required.
 
@@ -25,7 +25,7 @@ By the program's conclusion, you'll possess a diverse portfolio of projects that
 
 Furthermore, our program is designed to prepare you for the attainment of esteemed project management certifications, such as the prestigious CAPM certification from PMI. With our comprehensive curriculum and expert guidance, you'll be well-prepared to take that next important step in your career journey.
 
-## Applied Learning Project
+### Applied Learning Project
 
 This Specialization has a strong emphasis on applied learning and includes a series of hands-on activities. In these exercises, you’ll take the theory and skills you’ve gained and apply it to real-world scenarios. From building a timeline, tracking issues, or setting up a communications plan, we’ll provide realistic scenarios you might encounter as a project manager. Compiling these tools together will provide you with a portfolio showcasing your experience to help you shine for potential employers.
 
@@ -33,7 +33,7 @@ The final course in this program is a capstone course that was developed based o
 
 ----------------------------------------------------------------------------------------------------------
 
-## There are 4 Courses in this Specialization
+### There are 4 Courses in this Specialization
 
 ### COURSE 1
 ### Project Management Foundations, Initiation, and Planning
@@ -46,7 +46,7 @@ Create planning documents and others that help you scope a project, plan project
 
 Apply processes and tools that drive project initiation.  
 
-* [Project Management Foundations, Initiation, and Planning](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-1-Excel-Skills-for-Business-Essentials)
+* [Project Management Foundations, Initiation, and Planning](https://github.com/ansariparvej/SkillUp_EdTech_Modern_Project_Management_Specialization_Coursera/tree/main/Course_1:%20Project%20Management%20Foundations%2C%20Initiation%2C%20and%20Planning)
 
 ### COURSE 2
 ### Project Lifecycle, Information Sharing, and Risk Management
@@ -59,7 +59,7 @@ Perform an end-to-end risk analysis including SWOT analysis, risk register, and 
 
 Create executable risk response strategies to avoid or mitigate threats and exploit or enhance opportunities.
 
-* [Project Lifecycle, Information Sharing, and Risk Management](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-2-Excel-Skills-for-Business-Intermediate-I)
+* [Project Lifecycle, Information Sharing, and Risk Management](https://github.com/ansariparvej/SkillUp_EdTech_Modern_Project_Management_Specialization_Coursera/tree/main/Course_2:%20Project%20Lifecycle%2C%20Information%20Sharing%2C%20and%20Risk%20Management)
 
 ### COURSE 3
 ### Project Management Communication, Stakeholders & Leadership
@@ -72,7 +72,7 @@ Demonstrate better project communications by applying different communication sk
 
 Demonstrate increased stakeholder engagement by applying the knowledge and skills to acquire resources and keep stakeholders involved in the project.
 
-* [Project Management Communication, Stakeholders & Leadership](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-3-Excel-Skills-for-Business-Intermediate-II)
+* [Project Management Communication, Stakeholders & Leadership](https://github.com/ansariparvej/SkillUp_EdTech_Modern_Project_Management_Specialization_Coursera/tree/main/Course_3:%20Project%20Management%20Communication%2C%20Stakeholders%20%26%20Leadership)
 
 ### COURSE 4
 ### Practice Exam for CAPM Certification
@@ -85,17 +85,17 @@ Understand the CAPM exam format, duration, topics, and objectives, enabling you 
 
 Receive guidance on locating course resources to refresh your learning on specific exam topics
 
-* [Practice Exam for CAPM Certification](https://github.com/shantanu1109/Coursera-Macquarie-University-Excel-Skills-For-Business-Specialization/tree/main/Course-4-Excel-Skills-for-Business-Advanced)
+* [Practice Exam for CAPM Certification](https://github.com/ansariparvej/SkillUp_EdTech_Modern_Project_Management_Specialization_Coursera/tree/main/Course_4:%20Practice%20Exam%20for%20CAPM%20Certification)
 
 ----------------------------------------------------------------------------------------------------------
 
 ## Certificate
 
-1. [Project Management Foundations, Initiation, and Planning](https://www.coursera.org/account/accomplishments/verify/897HC2Z74LFW)
-2. [Project Lifecycle, Information Sharing, and Risk Management](https://www.coursera.org/account/accomplishments/verify/ZBP5B65WTJCR)
-3. [Project Management Communication, Stakeholders & Leadership](https://www.coursera.org/account/accomplishments/verify/W5ZNBZT52DME)
-4. [Practice Exam for CAPM Certification](https://www.coursera.org/account/accomplishments/verify/M2URRAJ8TCGR)
-5. [Modern Project Management Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/SY4QD6RK62TQ)
+1. [Project Management Foundations, Initiation, and Planning](https://www.coursera.org/account/accomplishments/certificate/4ZPPZMQ894UJ)
+2. [Project Lifecycle, Information Sharing, and Risk Management](https://www.coursera.org/account/accomplishments/certificate/BG5CDHS838GH)
+3. [Project Management Communication, Stakeholders & Leadership](https://www.coursera.org/account/accomplishments/certificate/N3TZMZ4K8XPS)
+4. [Practice Exam for CAPM Certification](https://www.coursera.org/account/accomplishments/certificate/GR82LSF4DHYT)
+5. [Modern Project Management Specialization Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/7BX72226SWUN)
 
 ----------------------------------------------------------------------------------------------------------
 
